@@ -1,4 +1,4 @@
-# Biblio
+# Seglio
 https://goo.gl/2pN1YK
 
 A book exchange portal where students can buy and sell college books. Registered users of the app post the books they no longer need and the students in need of them find them through the app.
